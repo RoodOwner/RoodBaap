@@ -21,7 +21,7 @@ RAID = [
     "10ᗰIᑎ TᗩK KI ᗰEᑎE TEᖇI ᗷᕼEᑎ KI ᑕᕼᑌᗪᗩI ᖴIᖇ ᗷIᑕᕼ KEET ᗰE TEᖇI ᗰᗩᗩ ᑌᑕᕼKᗩᗩ Kᖇ ᑕᕼᑌᗪᗯᗩI ᗷY ᖇOOᗪ ᗷᕼᗩI",
     "Tᑌ ᒪᗩᗩGᗩTᗩ ᕼᗩI E᙭Tᖇᗩ ᗰIᑕ TEᖇI ᗰᗩᗩ KI ᑕᕼᑌᑕᕼI KᖇᗪᑌᑎGᗩ IᑎᔕTᗩGᖇᗩᗰ ᑭᖇ ᒪIKE. TEᖇI ᗰᗩᗩ KO ᗩᗩᒍ TᗩK ᑎEᗯᔕ ᑭᖇ ᑕᕼOᗪᑌᑎGᗩ ᑎEᗯᔕ Kᗩᒪ TᗩK ᑕᕼᗩᒪTI ᖇᗩᕼEGI",
     "3Y ᑎIKᗩᒪ GᗩᗩYEE TEᖇI ᗰᗩᗩ ᑕᕼOᗪTE ᑕᕼOᗪTE ᗩᑌᖇ ᒪIGᕼT YEᗩᖇ ᗪᑌᑌᖇ ᑎᗩᕼI Tᑌ ᗩᗩKE ᒍᕼᑌᑌKᒍᗩᗩ ᗰEᖇI ᔕᑭEEᗪ ᗷᕼI Kᗩᗩᗰ ᑎᗩᕼI",
-    "TEᖇI ᗰᑌᗰᗰY KI ᖴᗩNTᗩSY Hᑌ ᒪᗩᗯDE, Tᑌ ᗩᑭNI ᗷHEN KO SᗰᗷHᗩᗩᒪ",
+    "TEᖇI ᗰᑌᗰᗰY KI ᖴᗩNTᗩSY Hᑌ ᒪᗩᗯDE, Tᑌ ᗩᑭNI ᗷHEN KO SAᗰᗷHᗩᗩᒪ",
     "TEᖇI ᗷEHEN KE ᗷHOSDE ᗰE XᐯIDEOS.ᑕOᗰ ᑕHᗩᒪᗩ KE ᗰᑌTH ᗰᗩᗩᖇᑌNGᗩ",
     "TEᖇI ᗰᗩᗩ Kᗩ GᖇOᑌᑭ ᐯᗩᗩᒪON SᗩᗩTH ᗰIᒪKE GᗩNG ᗷᗩNG KᖇᑌNGᗩ",
     "TEᖇI ITEᗰ KI GᗩᗩND ᗰE ᒪᑌND DᗩᗩᒪKE,TEᖇE ᒍᗩISᗩ EK Oᖇ NIKᗩᗩᒪ DᑌNGᗩ ᗰᗩDᗩᖇᑕHOD",
